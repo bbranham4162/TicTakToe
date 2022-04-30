@@ -1,5 +1,5 @@
 ﻿
-
+// TicTakToe by Bryson Branham with help from CSE Lab and TA Jeffrey
 using System;
 
     namespace TicTakToe{
@@ -109,47 +109,3 @@ using System;
             }
         }
     
-
-       
-    
-    
-
-//main(...)
-//{}
-        //Create variables
-
-        //while(stillPlaying){
-        //GetPlayers input
-        // update the game
-        // check win or draw conditions
-        // render the output
-        //switch to next player
-        //update still playing 
-
-
-//static when defining functions
-        
-
-
-//data
-
-// Player1: string(x)(o)
-// Player2: string(x)(o)
-
-// currentplayer: string(x)(o)
-// grid: string[]
-//stillplaying: boolean
-
-//Operations::
-
-//(named as Verbfollowedbynoun)
-
-//Checkforwin(grid)boolean
-//checkfordraw(grid)boolean
-//createGrid(grid)grid
-
-//makeMark(currentPlayer, grid, cell) void
-
-//getCell(currentPlayer)
-
-//drawGrid
